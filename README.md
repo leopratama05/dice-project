@@ -1,4 +1,6 @@
-# Project Dadu
+# Dice Project
+# Leo Pratama
+# XII RPL 3
 
 A new Flutter project created with [FlutLab](https://flutlab.io)
 
